@@ -1,0 +1,49 @@
+[
+  "Mumbai", "Delhi", "Bengaluru", "Kolkata", "Chennai", "Hyderabad", "Pune",
+  "Ahmedabad", "Surat", "Jaipur", "Lucknow", "Kanpur", "Nagpur", "Indore",
+  "Thane", "Bhopal", "Visakhapatnam", "Patna", "Vadodara", "Ghaziabad",
+
+  "London", "Manchester", "Birmingham", "Leeds", "Liverpool", "Sheffield",
+  "Newcastle", "Bristol", "Nottingham", "Leicester", "Oxford", "Cambridge",
+
+  "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia",
+  "San Antonio", "San Diego",  "Dallas", "San Jose", "Austin", "Seattle",
+  "Denver", "Boston", "Detroit", "San Francisco", "Washington",
+
+  "Toronto", "Vancouver", "Montreal", "Calgary", "Ottawa", "Quebec City",
+
+  "Tokyo", "Osaka", "Yokohama", "Nagoya", "Sapporo", "Fukuoka", "Kyoto",
+
+  "Beijing", "Shanghai", "Shenzhen", "Guangzhou", "Chengdu", "Wuhan",
+
+  "Paris", "Marseille", "Lyon", "Toulouse", "Nice", "Nantes",
+
+  "Berlin", "Hamburg", "Munich", "Frankfurt", "Cologne", "Stuttgart",
+
+  "Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide",
+
+  "Dubai", "Abu Dhabi", "Sharjah",
+
+  "Singapore",
+
+  "Hong Kong",
+
+  "Bangkok", "Chiang Mai",
+
+  "Moscow", "Saint Petersburg",
+
+  "Cairo", "Alexandria",
+
+  "Johannesburg", "Cape Town", "Durban",
+
+  "Rio de Janeiro", "São Paulo", "Brasília", "Salvador",
+
+  "Mexico City", "Guadalajara", "Monterrey",
+
+  "Istanbul", "Ankara", "Izmir",
+
+  "Rome", "Milan", "Naples", "Venice", "Florence",
+
+  "Madrid", "Barcelona", "Valencia", "Seville", "Zaragoza"
+]
+
